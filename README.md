@@ -1,7 +1,7 @@
 # vimeo-code-challenge
 Code Challenge for Vimeo's Front-End Engineering Internship
 
-Visit site : 
+Visit site : https://kristychen8.github.io/vimeo-code-challenge/
 
 ## Requirements
 Use React to ...
@@ -15,5 +15,6 @@ Have Node.js installed - [download page](https://nodejs.org/en/download/)
 3. Run app in development mode `npm start`
 4. Visit [http://localhost:3000](http://localhost:3000) to view it in the browser
 
-## To create a production build
-Builds the app for production to the `build` folder. - `npm run build`
+## To Deploy
+1. Create a production build  - `npm run build`
+2. To publish it at https://kristychen8.github.io/vimeo-code-challenge/ - `npm run deploy`
